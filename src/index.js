@@ -50,7 +50,7 @@ for(let i=0;i<a.length;i++){
     }
 }
 return c
-
+}
 module.exports = {
     decode
 }
